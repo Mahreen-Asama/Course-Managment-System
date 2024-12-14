@@ -1,7 +1,5 @@
 # CourseManagmentSystem
-A console based academic CMS using dotnet framework. </br>
-'MS SQL' (ADO.net) Connected Model is used for backend. </br>
-CRUD operations implemented for student, teacher and Admin of CMS.
+A console based academic CMS using dotnet framework. 'MS SQL' (ADO.net) Connected Model is used for backend. CRUD operations implemented for student, teacher and Admin of CMS.
 
 ## Student Menu
 1----Pay Semester Dues </br>
